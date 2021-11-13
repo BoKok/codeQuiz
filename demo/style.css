@@ -1,0 +1,19 @@
+.display {
+    display: none;
+}
+
+#countdown {
+    float: right;
+}
+
+#questionTitle {
+    text-align: center;
+    padding-top: 12.5%;
+}
+
+#demo {
+    text-align: center;
+}
+#demo li{
+    list-style: none;
+}
