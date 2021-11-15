@@ -6,6 +6,8 @@ The intent of this project is to construct a quiz about coding with a timer. The
 Usage
 You will need to press the start button and select from the answer choices.
 ![image](https://user-images.githubusercontent.com/93046469/141711528-1f10b4fe-8012-47ea-818b-01a30c86be3a.png)
+![image](https://user-images.githubusercontent.com/93046469/141711590-a7b85e9f-44c6-44e9-ab39-3ecb88b23112.png)
+
 
 Credits
 Bo Kok
