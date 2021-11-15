@@ -2,6 +2,24 @@
     display: none;
 }
 
+#startScreen {
+    text-align: center;
+    padding-top: 12.5%;
+}
+
+#startScreen h1 {
+    font-weight: bold;
+}
+
+#startButton {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightblue;
+    margin-left: 45%;
+    margin-right: 45%;
+    font-weight: bold;
+}
+
 #countdown {
     float: right;
 }
@@ -12,8 +30,17 @@
 }
 
 #demo {
-    text-align: center;
+    text-align: left;
 }
 #demo li{
     list-style: none;
+    margin-top: 1%;
+    padding: 25px;
+    margin-left: 35%;
+    margin-right: 25%;
+    border: black;
+    border-style: solid;
+    border-width: 5px;
+
+    background-color: lightblue;
 }

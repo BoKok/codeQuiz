@@ -121,21 +121,7 @@ var resultScreen = function(){
   finalScore.appendChild(createFinalScore);
 }
 
-var highScoreFunction = function(){
-  window.location.href = "highscore.html";
-  var initials = document.getElementById("initial").value;
-  localStorage.setItem("initial", initials);
-  var loadInitials = localStorage.getItem("inital");
-  var scorePage = document.getElementById("score");
-  var createScore = document.createElement("h2");
-  createScore.textContent = loadInitials;
-  console.log(createScore);
-  scorePage.appendChild(createScore);
-}
 
-var goBack = function(){
-  window.location.href = "index.html";
-}
 
 var start = document.getElementById("startButton")
 start.addEventListener("click", startingFunction);
